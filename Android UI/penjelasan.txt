@@ -1,0 +1,27 @@
+RecyclerView
+Digunakan untuk menampilkan daftar item yang dimanis, perlu adapter untuk menghubungkan recyclerView dengan item.
+
+TextView
+Menampilkan text, 
+
+FAB
+Hampir Sama seperti button, bisa ditampilkan dengan text atau icon.
+
+ScrollVew
+Layout yang memungkinkan untuk melakukan scroll, bagus dipakai jika isi dalam layout melebihi ukuran layar.
+
+RelativeLayout
+Salah satu layout yang menempatkan widget secara relatif berdasarkan widget lain.
+
+Toolbar
+Bagian atas pada aplikasi yang biasa memberikan informasi atau navigasi.
+
+LinearLayout
+Layout yang menempatkan widget secara terurut(vertikal/horizontal).
+
+
+ImageView
+Widget yang digunakan untuk menampilkan sebuah gambar.
+
+Switch
+Sebuah widget yang meberikan dua pilihan atau kondisi. ex: Turn On/Off.
